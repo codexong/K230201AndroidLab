@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">test6</string>
+    <string name="longtext">OpenAI 플랫폼에 회원가입 후 무료사용법 혹은 유료 구독제로 이용할 수 있으며, 회원가입을 하고 채팅을 하듯이 챗봇에 질문을 입력하는 것만으로 AI를 이용할 수 있다. 스마트폰으로도 OpenAI 플랫폼에 들어가면 이용할 수 있다. 2023년 3월 14일, OpenAI의 최신 언어모델인 GPT-4가 출시되었으며, 현재 ChatGPT Plus 가입자만 사용할 수 있다. 3월 23일에는 ChatGPT plugins가 공개되었다. 웹 브라우징, 코드 해석 등 OpenAI 자체 플러그인과 Wolfram Alpha, Zaiper, OpenTable 등 타사의 외부 플러그인이 적용되었다.</string>
+</resources>
