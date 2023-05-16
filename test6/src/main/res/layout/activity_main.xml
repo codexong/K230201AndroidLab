@@ -11,6 +11,14 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:text="@string/longtext"
+        android:textSize="20sp"
+        android:maxLines="3"
+        android:ellipsize="end"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:text="lsy@email.com, 주소:https://www.naver.com"
         android:textSize="20sp"
         android:fontFamily="@font/fontex"
@@ -42,7 +50,7 @@
 
     <Button
         android:id="@+id/btn1"
-        android:layout_width="297dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Button1" />
 
@@ -55,7 +63,10 @@
         android:id="@+id/img1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/img1"/>
+        android:src="@drawable/img1"
+        android:maxWidth="500dp"
+        android:maxHeight="400dp"
+        android:adjustViewBounds="true"/>
 
     <TextView
         android:layout_width="wrap_content"
